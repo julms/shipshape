@@ -1,4 +1,4 @@
-python /Users/username/Documents/shipshape/shipshape.py \
--base /Users/username/Documents/shipshapedata/ss13hny.csv \
--new /Users/username/Documents/shipshapedata/ss14hny.csv \
-> /Users/username/Documents/shipshapedata/logs
+python /Users/jms3917/Documents/shipshape/shipshape.py \
+-base /Users/jms3917/Documents/shipshapedata/ss13hny.csv \
+-new /Users/jms3917/Documents/shipshapedata/ss14hny.csv \
+> /Users/jms3917/Documents/shipshapedata/logs

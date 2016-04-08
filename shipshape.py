@@ -43,8 +43,8 @@ print "New data read successfully. Filtered only numeric columns\n",
 print "New data contains", len(new_data_numeric), "rows and", len(new_data_numeric.columns), "columns.\n"
 
 
-print "Removing the Primary Key variable for the test data, if applicable..."
-test_data = test_data.drop(args.key)
+#print "Removing the Primary Key variable for the test data, if applicable..."
+#test_data = test_data.drop(args.key)
 
 sys.stdout.flush()
 #print local_time(), "Summarizing data... "
